@@ -1,4 +1,4 @@
-/**
-* THis is a package name
+/**.
+* THis is a package name.
 */
 package com.example;
